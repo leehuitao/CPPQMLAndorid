@@ -26,4 +26,4 @@ QML调用安卓相机+QML做UI C++做网络通信显示到相机界面
 
 有最简单的C++和QML的通讯方式包含信号方式和直接调用
 ![输入图片说明](icon/image.png)
-![输入图片说明](icon/2image.png)
+![输入图片说明](icon/1image.png)
