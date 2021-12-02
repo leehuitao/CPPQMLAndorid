@@ -9,29 +9,21 @@ QML调用安卓相机+QML做UI C++做网络通信显示到相机界面
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
+1.  QT 版本5.13.2
+2.  模拟器内核 ARM V8
+3.  通信方式Tcp
+4.  需要安装安卓模拟器 API 版本7.11 +NDK+Java jdk 
+环境配置教程https://blog.csdn.net/weixin_38416696/article/details/79483407
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  QT 版本5.13.2
+2.  模拟器内核 ARM V8
+3.  通信方式Tcp
 
 #### 参与贡献
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+1.  李牛牛
 
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+有最简单的C++和QML的通讯方式包含信号方式和直接调用
+![输入图片说明](icon/image.png)
+![输入图片说明](icon/2image.png)
