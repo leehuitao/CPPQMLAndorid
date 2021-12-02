@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CameraPage.qml</file>
+        <file>DevicePage.qml</file>
+        <file>FlatButton.qml</file>
+        <file>Notice.qml</file>
+        <file>TcpClient.qml</file>
+        <file>ToolPage.qml</file>
+    </qresource>
+</RCC>
